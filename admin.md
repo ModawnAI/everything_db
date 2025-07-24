@@ -163,7 +163,7 @@ src/
 
 #### **Transaction Overview**
 - **Payment List**: Simple list of all payment transactions
-- **Payment Status**: View payment status (completed, failed, refunded)
+- **Payment Status**: View payment status (fully_paid, failed, refunded, partially_refunded, pending)
 - **Refund Management**: Basic refund processing for customer requests
 
 ### **Revenue Tracking**
